@@ -75,8 +75,6 @@ plt.xlabel('Year')
 plt.ylabel('No. of Flights')
 # Set a title of the current axes.
 plt.title('No. of flights that were On-time or Delayed in the US from 2004-2015')
-# show a legend on the plot
-plt.legend()
 #Edit the x and y axis units
 plt.axis(xmin=2003, xmax=2016, ymin=0, ymax=3500000)
 plt.xticks(np.arange(2004,2016,1))
