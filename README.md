@@ -8,7 +8,7 @@ This graph shows the total number of flights that were on-time or delayed in the
 
 ## Graph 2: Exchange Rate for USD in October 2020
 ![Exchange_Rate](exchangerate.png)
-This bar graph shows the exchange rate for USD for some popular currencies. The x-axis provides the names of the currencies and the y-axis indicates the value of the exchange rate for $1 USD. For example, 1 USD would be equal to 1.4 AUD. The data used to create this plot included all major currencies of the world, but I chose to depict currencies that I have used or am familiar with.[You can find the original data here!](https://github.com/jdorfman/awesome-json-datasets) 
+This bar graph shows the exchange rate for USD for some popular currencies. The x-axis provides the names of the currencies and the y-axis indicates the value of the exchange rate for $1 USD. For example, 1 USD would be equal to 1.4 AUD. The data used to create this plot included all major currencies of the world, but I chose to depict currencies that I have used or am familiar with. [You can find the original data here!](https://github.com/jdorfman/awesome-json-datasets) 
 
 
 [Here's a link to the webpage for the instructions for this project](https://github.com/mikeizbicki/cmc-csci040/tree/2020fall/hw_02)
