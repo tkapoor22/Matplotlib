@@ -64,12 +64,12 @@ print('ontime_count=',ontime_count3)
 x1 = delayed_count3.keys()
 y1 = delayed_count3.values()
 # plotting the line 1 points 
-plt.plot(x1, y1, label = "Delayed")
+plt.plot(x1, y1, label = "Delayed",color='blue', marker='o', markersize=5)
 # line 2 points
 x2 = ontime_count3.keys()
 y2 = ontime_count3.values()
 # plotting the line 2 points 
-plt.plot(x2, y2, label = "On-time")
+plt.plot(x2, y2, label = "On-time",color='orange', marker='o', markersize=5)
 plt.xlabel('Year')
 # Set the y axis label of the current axis.
 plt.ylabel('No. of Flights')
@@ -81,9 +81,6 @@ plt.legend()
 plt.axis(xmin=2003, xmax=2016, ymin=0, ymax=3500000)
 plt.xticks(np.arange(2004,2016,1))
 plt.yticks(np.arange(0,3500000,250000))
-#Adding a market
-plt.plot(x1, y1, color='blue' , marker='o', markersize=5)
-plt.plot(x2, y2, color='orange' , marker='o', markersize=5)
 #plot legend
 plt.legend(loc='upper right',prop={'size':10})
 # Remove exponetns from y axis 
