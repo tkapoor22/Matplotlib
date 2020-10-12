@@ -3,7 +3,7 @@
 ## Graph 1: No. of flights that were On-time or Delayed in the US from 2004-2015
 ![No. of Flights](flight2.png)
 
-This graph shows the total number of flights that were on-time or delayed in the US between 2004 and 2015. From this graph, we can easily tell that most flights were on-time with an average difference of about 2,000,000 flights between flights that were on-time or delayed. The data used to create this plot included all major airports across the US such as Logan International, Washington Dulles International, and John F. Kennedy International. [You can find the orignal data here!](https://github.com/jdorfman/awesome-json-datasets) 
+This graph shows the total number of flights that were on-time or delayed in the US between 2004 and 2015. From this graph, we can easily tell that most flights were on-time with an average difference of about 2,000,000 flights between flights that were on-time or delayed. The data used to create this plot included all major airports across the US such as Logan International, Washington Dulles International, and John F. Kennedy International. [You can find the original data here!](https://github.com/jdorfman/awesome-json-datasets) 
 
 
 ## Graph 2: Exchange Rate for USD in October 2020
